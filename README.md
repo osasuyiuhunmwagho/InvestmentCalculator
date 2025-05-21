@@ -97,8 +97,6 @@ investment-calculator/
 - Create printable/exportable reports
 - Dark/light theme toggle
 
-## License
-
 
 
 ---
